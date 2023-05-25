@@ -1,4 +1,4 @@
-# segundo_trabajo-p5js
+# segundo-p5js
 
 ## Zaida Rocha
 
